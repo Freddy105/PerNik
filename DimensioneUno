@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Unità di misura</title>
+        <link rel="stylesheet" href="../CorsoCiaco/Css2/index2.css">
+    </head>
+
+    <body>
+<div class="container">
+    <div class="container__element1">Div1</div>
+    <div class="container__element2">Div2</div>
+    <div class="container__element3">Div3</div>
+
+
+
+</div>
+<div class="containerBis">
+
+    <div class="container__element1Bis">Div1Bis</div>
+    <div class="container__element2Bis">Div2Bis</div>
+    <div class="container__element3Bis">Div3Bis</div>
+    <div class="container__element4Bis">Div4Bis</div>
+
+</div> 
+
+<div class="containerTris">
+
+    <div class="container__element1Tris">Div1Tris</div>
+    <div class="container__element2Tris">Div2Tris</div>
+
+
+    </body>
+</html>
